@@ -49028,6 +49028,7 @@ menstennisforums.com#@#.top_ads
 ||cuteonly.com/banners.php$third-party
 ||d-l-t.com^$subdocument,third-party
 ||d10lv7w3g0jvk9.cloudfront.net^
+||d1y3vfophxf7ip.cloudfront.net^
 ||d11enq2rymy0yl.cloudfront.net^
 ||d11tybz5ul8vel.cloudfront.net^
 ||d12ysuoljjyfqa.cloudfront.net^
